@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Sanjay 👋
 
-<!--
-**sanjay07ti/sanjay07ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year BSc Student in Mathematics, Computer Science & AI/ML
+💻 Learning Python, AI/ML & Software Development
+🚀 Passionate about Technology and Problem Solving
+📚 Currently improving coding and development skills
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+Python Basics
+Git & GitHub
+SQL Basics
+AI/ML Fundamentals
+Goals
+Build real-world projects
+Improve programming skills
+Gain internship experience
+Connect With Me
+GitHub: https://github.com/sanjay07ti
